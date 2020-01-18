@@ -1,0 +1,5 @@
+Warning[205] D:\MIKRO\ODEV1\MPLAB\YENI.ASM 2 : Found directive in column 1. (__CONFIG)
+Message[302] D:\MIKRO\ODEV1\MPLAB\YENI.ASM 14 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\MIKRO\ODEV1\MPLAB\YENI.ASM 17 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\MIKRO\ODEV1\MPLAB\YENI.ASM 21 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[205] D:\MIKRO\ODEV1\MPLAB\YENI.ASM 152 : Found directive in column 1. (End)

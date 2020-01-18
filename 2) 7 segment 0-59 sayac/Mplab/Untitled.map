@@ -1,0 +1,54 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Wed Jan 01 20:26:40 2020
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000002
+                   .org_2       code   0x000004    program   0x0000f2
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000000      
+                            0x000004    0x00007c      
+            122 out of 8454 program addresses used, program memory utilization is 1%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    Kesme   0x000040    program     static C:\Users\iamcodder\Desktop\calis\Mplab\Untitled.asm
+                   Lookup   0x000069    program     static C:\Users\iamcodder\Desktop\calis\Mplab\Untitled.asm
+               SagSegment   0x000039    program     static C:\Users\iamcodder\Desktop\calis\Mplab\Untitled.asm
+                    Setup   0x000005    program     static C:\Users\iamcodder\Desktop\calis\Mplab\Untitled.asm
+               SolSegment   0x000033    program     static C:\Users\iamcodder\Desktop\calis\Mplab\Untitled.asm
+                arttirsag   0x000053    program     static C:\Users\iamcodder\Desktop\calis\Mplab\Untitled.asm
+                arttirsol   0x00005e    program     static C:\Users\iamcodder\Desktop\calis\Mplab\Untitled.asm
+              gecikme10ms   0x000074    program     static C:\Users\iamcodder\Desktop\calis\Mplab\Untitled.asm
+             gecikme10ms2   0x000076    program     static C:\Users\iamcodder\Desktop\calis\Mplab\Untitled.asm
+             gecikme10ms3   0x000078    program     static C:\Users\iamcodder\Desktop\calis\Mplab\Untitled.asm
+            yirmi_kontrol   0x00004d    program     static C:\Users\iamcodder\Desktop\calis\Mplab\Untitled.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    Setup   0x000005    program     static C:\Users\iamcodder\Desktop\calis\Mplab\Untitled.asm
+               SolSegment   0x000033    program     static C:\Users\iamcodder\Desktop\calis\Mplab\Untitled.asm
+               SagSegment   0x000039    program     static C:\Users\iamcodder\Desktop\calis\Mplab\Untitled.asm
+                    Kesme   0x000040    program     static C:\Users\iamcodder\Desktop\calis\Mplab\Untitled.asm
+            yirmi_kontrol   0x00004d    program     static C:\Users\iamcodder\Desktop\calis\Mplab\Untitled.asm
+                arttirsag   0x000053    program     static C:\Users\iamcodder\Desktop\calis\Mplab\Untitled.asm
+                arttirsol   0x00005e    program     static C:\Users\iamcodder\Desktop\calis\Mplab\Untitled.asm
+                   Lookup   0x000069    program     static C:\Users\iamcodder\Desktop\calis\Mplab\Untitled.asm
+              gecikme10ms   0x000074    program     static C:\Users\iamcodder\Desktop\calis\Mplab\Untitled.asm
+             gecikme10ms2   0x000076    program     static C:\Users\iamcodder\Desktop\calis\Mplab\Untitled.asm
+             gecikme10ms3   0x000078    program     static C:\Users\iamcodder\Desktop\calis\Mplab\Untitled.asm
+
+

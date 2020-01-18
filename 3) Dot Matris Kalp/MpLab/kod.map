@@ -1,0 +1,40 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Wed Jan 01 22:49:09 2020
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000060
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x00002f      
+            48 out of 8454 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    Setup   0x000001    program     static C:\Users\iamcodder\Desktop\calis\Dot Matris\MpLab\kod.asm
+                     Yak1   0x00000d    program     static C:\Users\iamcodder\Desktop\calis\Dot Matris\MpLab\kod.asm
+              gecikme10ms   0x000027    program     static C:\Users\iamcodder\Desktop\calis\Dot Matris\MpLab\kod.asm
+             gecikme10ms2   0x000029    program     static C:\Users\iamcodder\Desktop\calis\Dot Matris\MpLab\kod.asm
+             gecikme10ms3   0x00002b    program     static C:\Users\iamcodder\Desktop\calis\Dot Matris\MpLab\kod.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    Setup   0x000001    program     static C:\Users\iamcodder\Desktop\calis\Dot Matris\MpLab\kod.asm
+                     Yak1   0x00000d    program     static C:\Users\iamcodder\Desktop\calis\Dot Matris\MpLab\kod.asm
+              gecikme10ms   0x000027    program     static C:\Users\iamcodder\Desktop\calis\Dot Matris\MpLab\kod.asm
+             gecikme10ms2   0x000029    program     static C:\Users\iamcodder\Desktop\calis\Dot Matris\MpLab\kod.asm
+             gecikme10ms3   0x00002b    program     static C:\Users\iamcodder\Desktop\calis\Dot Matris\MpLab\kod.asm
+
+

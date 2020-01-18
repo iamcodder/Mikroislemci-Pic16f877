@@ -1,0 +1,62 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Tue Nov 05 10:35:10 2019
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x0000d2
+      .config_2007_YENI.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000068      
+                            0x002007    0x002007      
+            106 out of 8454 program addresses used, program memory utilization is 1%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    Setup   0x000001    program     static D:\Mikro\Odev1\MpLab\yeni.asm
+          a_portu_kontrol   0x00003e    program     static D:\Mikro\Odev1\MpLab\yeni.asm
+          a_portu_sifirla   0x000047    program     static D:\Mikro\Odev1\MpLab\yeni.asm
+          a_portunu_fulle   0x00004a    program     static D:\Mikro\Odev1\MpLab\yeni.asm
+ b_portu_hepsi_yaniyor_mu   0x000052    program     static D:\Mikro\Odev1\MpLab\yeni.asm
+          b_portunu_fulle   0x00004e    program     static D:\Mikro\Odev1\MpLab\yeni.asm
+                   dongu1   0x00005c    program     static D:\Mikro\Odev1\MpLab\yeni.asm
+                   dongu2   0x00005f    program     static D:\Mikro\Odev1\MpLab\yeni.asm
+                   dongu3   0x000062    program     static D:\Mikro\Odev1\MpLab\yeni.asm
+                  gecikme   0x000059    program     static D:\Mikro\Odev1\MpLab\yeni.asm
+       ileri_say_dort_bit   0x000031    program     static D:\Mikro\Odev1\MpLab\yeni.asm
+      ileri_say_sekiz_bit   0x00001d    program     static D:\Mikro\Odev1\MpLab\yeni.asm
+              kontrol_bir   0x000017    program     static D:\Mikro\Odev1\MpLab\yeni.asm
+              kontrol_iki   0x00001a    program     static D:\Mikro\Odev1\MpLab\yeni.asm
+    sekiz_bit_geri_saydir   0x000026    program     static D:\Mikro\Odev1\MpLab\yeni.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    Setup   0x000001    program     static D:\Mikro\Odev1\MpLab\yeni.asm
+              kontrol_bir   0x000017    program     static D:\Mikro\Odev1\MpLab\yeni.asm
+              kontrol_iki   0x00001a    program     static D:\Mikro\Odev1\MpLab\yeni.asm
+      ileri_say_sekiz_bit   0x00001d    program     static D:\Mikro\Odev1\MpLab\yeni.asm
+    sekiz_bit_geri_saydir   0x000026    program     static D:\Mikro\Odev1\MpLab\yeni.asm
+       ileri_say_dort_bit   0x000031    program     static D:\Mikro\Odev1\MpLab\yeni.asm
+          a_portu_kontrol   0x00003e    program     static D:\Mikro\Odev1\MpLab\yeni.asm
+          a_portu_sifirla   0x000047    program     static D:\Mikro\Odev1\MpLab\yeni.asm
+          a_portunu_fulle   0x00004a    program     static D:\Mikro\Odev1\MpLab\yeni.asm
+          b_portunu_fulle   0x00004e    program     static D:\Mikro\Odev1\MpLab\yeni.asm
+ b_portu_hepsi_yaniyor_mu   0x000052    program     static D:\Mikro\Odev1\MpLab\yeni.asm
+                  gecikme   0x000059    program     static D:\Mikro\Odev1\MpLab\yeni.asm
+                   dongu1   0x00005c    program     static D:\Mikro\Odev1\MpLab\yeni.asm
+                   dongu2   0x00005f    program     static D:\Mikro\Odev1\MpLab\yeni.asm
+                   dongu3   0x000062    program     static D:\Mikro\Odev1\MpLab\yeni.asm
+
+

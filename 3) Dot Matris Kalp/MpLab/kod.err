@@ -1,0 +1,3 @@
+Message[302] C:\USERS\IAMCODDER\DESKTOP\CALIS\DOT MATRIS\MPLAB\KOD.ASM 11 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\IAMCODDER\DESKTOP\CALIS\DOT MATRIS\MPLAB\KOD.ASM 16 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[205] C:\USERS\IAMCODDER\DESKTOP\CALIS\DOT MATRIS\MPLAB\KOD.ASM 74 : Found directive in column 1. (End)

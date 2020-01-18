@@ -1,0 +1,46 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Sun Jan 05 14:54:18 2020
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x0000a8
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000053      
+            84 out of 8454 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    DNGU1   0x000051    program     static C:\Users\iamcodder\Desktop\calis\Led\MpLab\Untitled.asm
+              DUSEN_KENAR   0x00004b    program     static C:\Users\iamcodder\Desktop\calis\Led\MpLab\Untitled.asm
+                    Dongu   0x000032    program     static C:\Users\iamcodder\Desktop\calis\Led\MpLab\Untitled.asm
+           GECIKME_200USN   0x00004f    program     static C:\Users\iamcodder\Desktop\calis\Led\MpLab\Untitled.asm
+               KOMUT_8BIT   0x000033    program     static C:\Users\iamcodder\Desktop\calis\Led\MpLab\Untitled.asm
+          Karakter_gonder   0x000042    program     static C:\Users\iamcodder\Desktop\calis\Led\MpLab\Untitled.asm
+                    Setup   0x000001    program     static C:\Users\iamcodder\Desktop\calis\Led\MpLab\Untitled.asm
+              komut_4_bit   0x00003a    program     static C:\Users\iamcodder\Desktop\calis\Led\MpLab\Untitled.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    Setup   0x000001    program     static C:\Users\iamcodder\Desktop\calis\Led\MpLab\Untitled.asm
+                    Dongu   0x000032    program     static C:\Users\iamcodder\Desktop\calis\Led\MpLab\Untitled.asm
+               KOMUT_8BIT   0x000033    program     static C:\Users\iamcodder\Desktop\calis\Led\MpLab\Untitled.asm
+              komut_4_bit   0x00003a    program     static C:\Users\iamcodder\Desktop\calis\Led\MpLab\Untitled.asm
+          Karakter_gonder   0x000042    program     static C:\Users\iamcodder\Desktop\calis\Led\MpLab\Untitled.asm
+              DUSEN_KENAR   0x00004b    program     static C:\Users\iamcodder\Desktop\calis\Led\MpLab\Untitled.asm
+           GECIKME_200USN   0x00004f    program     static C:\Users\iamcodder\Desktop\calis\Led\MpLab\Untitled.asm
+                    DNGU1   0x000051    program     static C:\Users\iamcodder\Desktop\calis\Led\MpLab\Untitled.asm
+
+
