@@ -14,6 +14,8 @@
 - [emrebaris9](https://github.com/emrebaris9/AssemblyExamples "emrebaris9")
 - [ramaxankara](https://github.com/ramaxankara/PIC16F877A-Example "ramaxankara")
 - [yusufkorkmaz](https://github.com/yusufkorkmaz/PIC16F877 "yusufkorkmaz")
+- [HBurakErol](https://github.com/HBurakErol/PIC16F877X-MikroIslemci-Ornekleri-Turkce "HBurakErol")
+
 
 ###### > Not: Eklenmesini istediğiniz kaynak olursa issue açıp bildirin.İnceleme sonucunda ekleme yapılacaktır.
 
